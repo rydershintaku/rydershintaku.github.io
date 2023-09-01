@@ -1,54 +1,37 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Does something being eaiser make it better? Java vs. Javascript"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2023-08-31
 published: true
 labels:
-  - Engineering
+  - Java
+  - Javascript
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+A simple search from google shows that google why Javascript is easier. One reason is that it requires fewer tools and prior knowledge of development kits. Furthermore, from class we saw how you can pass a function in a function in javascript. In the WOD we could return both a string and an int within a function because we didn’t have to declare the function type at the beginning of the function. We also don’t have to declare the variable, all of which we have to do in Java. It seems like unneeded complication, if Javascript could do it then why doesn’t Java have this level of flexibility? 
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+## There’s a want for uncomplicated content
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+This is just a given right? 
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+No one wants to make anything harder for themselves. How to for dummies is a book series that is popular about learning different topics like Java or Personal Finance that are supposedly made easy. This shows that people have a crave for anything that requires less effort. It’s also shown in things like “Get abs in just 30 days” youtube videos that are very watched. If the first paragraph is true, and people want to learn stuff that’s easy, why is Java taught instead of Javascript at UH Manoa in intro ICS classes like 111 or 211? 
 
-Here's what I think: the difficult things will always be difficult.
+## There’s more to learning than being easy
 
-## In the context of programming
+Java is the second most popular language and with popularity comes community support. Things like stackoverflow of problems in Java or more tutorials are always better. Additionally, manoa is a learning institution first.
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+Remember how I said how you don’t have to declare things like function or variable types. Things like this are actually beneficial when we are starting out, knowing the difference between int and string is very fundamental, it should be hammered into every beginner. Even something like a function can only return one type could require better planning from the programmer so there would be no confusion. 
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
+## There can be no general consensus to which language is better
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
+Of course if there's one language A that does everything that B does but better, then choose A. But it’s not like that in the real world and in the case of Java vs. Javascript, each have their own specialties. 
 
-## In the context of engineering
+Javascript’s biggest weakness is that it can only run on web pages while Java can make anything from mobile apps to big data applications and server-side technologies. We as people want to know which one is better as coding takes a lot of time investment but the unfortunate truth is that there’s no clear winner as most can achieve different things. 
 
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
+## Conclusion!
 
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+Does something being easier make it better? Is Checkers better than Chess because it’s easier? Or does the complexity of Chess make it better?  Long story short, It depends on the purpose. :)
