@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/cotton/unnamed.png
 title: "Spotify Scraper"
 date: 2023
 published: true
@@ -12,7 +12,7 @@ labels:
 summary: "Code that I wrote for scraping the length of songs on spotify"
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/cotton/download.png">
 
 This is my first ever real outside coding "project" that I ever did and it was just for another class, statistics. 
 
