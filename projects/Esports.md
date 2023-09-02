@@ -12,7 +12,7 @@ labels:
 summary: "Way to improve self in team"
 ---
 
-img/cotton/download.jpg
+<img class="img-fluid" src="../img/cotton/download.jpg">
 
 I was part of an esports team last semester and we didn't make it far in the tournament, just failing in the local mountain west playoffs. But that wasn't the important part, it was about how it was a team game and I didn't take proper responsibility. 
 
