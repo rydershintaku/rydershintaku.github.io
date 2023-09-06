@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/cotton/download (1) Cropped.jpg
-title: "Esports"
+title: "Blame in Esports"
 date: 2023
 published: true
 labels:
