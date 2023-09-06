@@ -10,7 +10,7 @@ labels:
   - Javascript
 ---
 
-<img class="img-fluid" src="../img/cotton/img/cotton/main-qimg-1d0dd9dc6aaa97a20a1829067872e81d.jpg">
+<img class="img-fluid" src="../img/cotton/main-qimg-1d0dd9dc6aaa97a20a1829067872e81d.jpg">
 
 A simple search from google shows that google why Javascript is easier. One reason is that it requires fewer tools and prior knowledge of development kits. Furthermore, from class we saw how you can pass a function in a function in javascript. In the WOD we could return both a string and an int within a function because we didn’t have to declare the function type at the beginning of the function. We also don’t have to declare the variable, all of which we have to do in Java. It seems like unneeded complexity, after all, if Javascript could do it then why doesn’t Java have this level of flexibility?
 
