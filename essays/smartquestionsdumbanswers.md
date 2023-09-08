@@ -21,11 +21,11 @@ Nobody wants to answer something that someone clearly did not try on and shows n
 
 ## A good question is specific
 
-My example of a bad question is [Stackoverflow](https://stackoverflow.com/questions/77063224/how-to-access-to-data-object-width-javascript-show-example). Which essentially if you don’t want to click on the link is, I have to access variables with this code. Well have you done anything? What exactly do you want me to do with accessing variables? There’s just too many questions that make it harder for the answerer to do, and such is not something that they would spend their time on.
+My example of a bad question is [Stackoverflow, bad](https://stackoverflow.com/questions/77063224/how-to-access-to-data-object-width-javascript-show-example). Which essentially if you don’t want to click on the link is, I have to access variables with this code. Well have you done anything? What exactly do you want me to do with accessing variables? There’s just too many questions that make it harder for the answerer to do, and such is not something that they would spend their time on.
 
 ## Asking a smart question could lead to dumb answers
 
 Now, although stack overflow has an upvote/downvote system, and is generally answered by people who know what they are talking about, this is the internet we are talking about and anyone can answer anything. So you could take your time and write the most beautiful, most thorough question ever, and still get a dumb answer and could even be harmful by being wrong.
-On the flip side, you could also write the most uninspiring question and get a wonderful answer for that. But most of the time it will end up like this [Stackoverflow](https://stackoverflow.com/questions/1190842/in-visual-studio-how-to-correctly-build-an-application-for-64-bit-machines?rq=3). If you ask a clean question in which they get a clean answer about what types of application requires different types of dependencies. 
+On the flip side, you could also write the most uninspiring question and get a wonderful answer for that. But most of the time it will end up like this [Stackoverflow, good](https://stackoverflow.com/questions/1190842/in-visual-studio-how-to-correctly-build-an-application-for-64-bit-machines?rq=3). If you ask a clean question in which they get a clean answer about what types of application requires different types of dependencies. 
 
 At the end of the day, just make it easier for everyone, google beforehand and think before writing a question.
