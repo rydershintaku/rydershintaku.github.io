@@ -25,8 +25,8 @@ When I was trying to figure out if there was a study on coding standards, like a
 ## Quote
  “The differences indicate that Data Science codebases are distinct from traditional software codebases and do not follow traditional software engineering conventions. Our conjecture is that this may be because traditional software engineering conventions are inappropriate in the context of Data Science projects.”
 
-
-Well, duh. Coding standards for Data Science projects would be different from the coding standards of traditional software. But this just supports the statement that different coding standards achieve different things. 
+## Well, duh
+Coding standards for Data Science projects would be different from the coding standards of traditional software. But this just supports the statement that different coding standards achieve different things. 
 
 ## Conclusion
 Maybe someday there will be a definitive study on different types of coding projects with guidelines of if there’s 4 or more functions, then the best way to make it readable would be to do y. But today, there’s no such document, so just follow the basics that everyone can agree upon such as no extra empty lines at the bottom of code, you know just stuff that there would be no downside to. Make it easier for everyone and yourself.
