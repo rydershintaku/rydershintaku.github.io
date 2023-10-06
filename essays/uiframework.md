@@ -14,7 +14,7 @@ labels:
 
 <img class="img-fluid" src="../img/cotton/columns.jpg">
 
- ##THERE IS NO DOWNSIDE TO INCLUDING AN UI FRAMEWORK.
+ ## THERE IS NO DOWNSIDE TO INCLUDING AN UI FRAMEWORK.
 
 There are apparently people who say that using an ui framework is like learning a whole new language, and is difficult. The whole purpose of bootstrap and other frameworks like it is to 
 provide a tool to make your life easier. All it requires is using a tutorial or googling bootstrap “whatever” to see a well thought-out documentation that includes pictures of what the code does, which is really helpful especially because we are coding a website. 
