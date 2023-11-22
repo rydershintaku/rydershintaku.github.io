@@ -41,10 +41,10 @@ This one is surprisingly hit or miss, you have to know a baseline level of what 
 Almost always good as long as you give it specific instructions. If I say build me a website about cats. It’s not going to fit the vision I want, even if I say give me  a website about cats where the background is black, font size 23123 with a font family of Cheddar cheese, and the nav bar has two things on it, the signout out link that’s dead and on the right side a small cat picture, it will do that most of the i times, sI noticed that when I try to do it for navbars, wt messes up the orientation or placement of the certain things in the navbar because when I’m trying to recreate a WOD, I see the picture with my human eyes but the AI obviously can’t detect what my words are exactly trying to say. But I think overall this one depends on if you use it properly or not.
 ## 12. Documenting code:
 This one I think is always helpful because I never comment on anything I write, so when the AI does it for me, especially if it’s right, it’s good. But if it’s wrong and on a consistent basis wrong, then there’s no point in it and should never be used because it’s worse if something reads a wrong comment that says for example the function is for getting the amount of pizza in the restaurant but in actuality it determines the amount of pizza that customers ate that day, it’s worse than the coder going into it with a blank mind on what the function could mean.
-# 13. Quality assurance:
+## 13. Quality assurance:
 I personally use this all the time, and I think it’s always helpful. I wouldn’t be asking these questions if I didn’t already try to do something about it myself, and I just need a second opinion because I actually don’t know what to do. I noticed that with the website building ones it’s even more confusing than me about building apps because there’s so many connected pages that it would never have access to like the crazy amount of pages in the contacts WOD.
 
-# 14. Other uses in ICS 314 not listed:
+## 14. Other uses in ICS 314 not listed:
 I just used this essay where I wanted ChatGPT to put a hashtag in front and have the 1-14 numbered in a list because on the website, you couldn’t copy the numbers so you would have to manually type them out yourselves. So it’s good that AI can do this manual labor for me.
 
 
