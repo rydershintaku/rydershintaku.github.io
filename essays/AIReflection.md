@@ -53,6 +53,7 @@ While I have not participated in the HACC I know that one of the challenges offe
 
 # V. Challenges and Opportunities:
 One challenge that I haven’t heard anyone talk about so far is the potential of the best AI behind some paid wall like ChatGPT is with their 4, right now the current public one is 3.5 which is based off of old data and I think 4 is based off of more recent and better data, so if other Ai follow in their footsteps and start locking the best behind a paywall, then there could be some serious roads ahead of us.
+
 # VI. Comparative Analysis:
 One of the challenges that traditional teaching provides is that the teacher isn’t always there and won’t be there 24/7, this is where AI could always be ready and ready to help, no matter how bad the answers may be now, if it keeps on improving it could just be a better than a traditional classroom.
 
