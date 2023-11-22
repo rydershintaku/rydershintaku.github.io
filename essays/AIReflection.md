@@ -46,7 +46,8 @@ I personally use this all the time, and I think it’s always helpful. I wouldn�
 ## 14. Other uses in ICS 314 not listed:
 I just used this essay where I wanted ChatGPT to put a hashtag in front and have the 1-14 numbered in a list because on the website, you couldn’t copy the numbers so you would have to manually type them out yourselves. So it’s good that AI can do this manual labor for me.
 
-# III. Impact on Learning and Understanding: Overall, I want to say that It improved my learning experience especially because the complex things you can’t get help for like the example I used about how during the digits, if something didn’t work because of the way the pages connected, AI couldn’t even do anything for you except to say maybe check those pages, so if you know enough about the subject already and then ask, it’s helpful.
+# III. Impact on Learning and Understanding: 
+Overall, I want to say that It improved my learning experience especially because the complex things you can’t get help for like the example I used about how during the digits, if something didn’t work because of the way the pages connected, AI couldn’t even do anything for you except to say maybe check those pages, so if you know enough about the subject already and then ask, it’s helpful.
 
 # IV. Practical Applications:
 While I have not participated in the HACC I know that one of the challenges offered to participants was to develop an AI help desk for Hawaii’s helpdesk? This is a clear example of how AI could be used to help the people of Hawaii if used correctly because the current helpdesk is not very clean at all and very confusing to non-experienced people.
@@ -63,3 +64,4 @@ I do think that it should be allowed just like google in software engineering cl
 # VIII. Conclusion:
 
 In summary, I think that AI should be used, it just needs to be researched to see what the ways people can effectively use them are because they are here right now and not going to go anywhere anytime soon, in fact they are only going to get better. As for using AI for assignments, it all depends on how the person uses them to see if they learned anything. If they  want to learn something, then great. If not, then copy and paste it is.
+
