@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Software Engineering is a people game"
+title: "Software Engineering is a more than coding"
 # All dates must be YYYY-MM-DD format!
 date: 2023-12-13
 published: true
