@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Software Engineering is a more than coding"
+title: "Software Engineering is a people game"
 # All dates must be YYYY-MM-DD format!
 date: 2023-12-13
 published: true
@@ -21,7 +21,7 @@ Software engineering is a broad field with many specializations, such as web dev
 
 What you do in it is: the systematic, disciplined, and quantifiable approach to the design, development, deployment, operation, and maintenance of software.
 
-Basically Software Engineering can be applied to any software(Coding) application and just making and changing them.
+Basically Software Engineering can be applied to any software(coding) application and just making and changing them.
 Now there’s many different aspects about Software Engineering but I’ll mainly talk about two of the most important ones to me: Coding Standards and Agile Project Management.
 
 ## III. Coding Standards.
@@ -30,7 +30,7 @@ Coding standards are just like the name suggests the standards for coding. Like 
 ## IV. Agile Project Management.
 Ok we know what project management is, when you lead a team through a project but what does adding Agile do to it? 
 
-### Key principles of Agile:
+Key principles of Agile:
 
 Iterative development: Work is broken down into small, manageable iterations.
 Continuous feedback: Stakeholders provide feedback throughout the development process.
@@ -39,3 +39,11 @@ Adaptive planning: Plans are constantly adjusted based on new information and fe
 So it’s basically taking things step by step and incorporating any feedback that may occur when people test the product. This step by step process is very crucial because if anything is wrong then you should fix it as early as possible in order to cause the least pain. A small analogy would be when building testing specific parts of your pc first rather than building the whole thing only to realize that your motherboard doesn’t work so you have to take it out and it’s just a big hassle that could have been prevented with due diligence. Of course the best and ideal situation is just to have everything working without having to check anything, but that isn’t always the case and often in real life things do happen.
 
 The other thing that this does is gives small goals to reach to. It can be daunting and challenging to say “Ok, build a website that does x,y,z.”. But by giving achievable tasks to reach that big goal then makes everything much more manageable.
+
+## V. Communication is the main focus
+
+What’s the common factor between these two concepts? People. Whether it's a solo project or a collaborative effort, human interaction is crucial for software creation. Human minds can’t read one another. Effective communication becomes the vital bridge, fostering understanding, collaboration, and ultimately, success.
+
+Imagine a project built in a vacuum of silence. Misunderstandings run rampant, assumptions multiply, and progress stagnates. This is where communication shines its light. Through clear and concise dialogue, people share ideas, define expectations, and navigate challenges together.
+
+By prioritizing communication, the software development process transforms from a solitary endeavor into a balance of shared knowledge and purpose.
