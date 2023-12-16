@@ -31,9 +31,7 @@ My personal role was the frontend, finding out what needed to be done and in wha
 While I wasn’t the leader I do feel like I did contribute significantly when it came to the ideas of what to do such as the idea of direction. Here’s a problem to which I don’t think there is any intuitive solution: When designing a bathroom rating system, what do you do in order to differentiate two bathrooms on the same floor? Numbers seem like first thing because it’s very easy to just say bathroom #1 or bathroom #2, but what makes that bathroom #1 and not 2? You may then respond with just name the bathroom based off of the closest room to it. But what about bathrooms in buildings where it’s just in the middle like Sakamaki? So in order to solve that problem I just devised that we would use direction because there is no way that there are two bathrooms on the same floor right next to each other, so you would just name them after which direction they were facing. This does have this problem of how would people know what bathroom is in what direction, this is solved through adding a compass. The front end is just making the things that are visible to users and being a cleanup man means that when Jianle (Our main person) was done, I would just do anything that he didn’t do such as adding two more inputs to the add bathroom form (review, direction). Or just do anything that other people didn’t want to do like updating the github pages.
 
 
-<div class="text-center p-4">
-  <img width="400px" class="img-thumbnail" src="../img/cotton/AddBathroomFinal.png">
-</div>
+  <img class="img-thumbnail" src="../img/cotton/AddBathroomFinal.png">
 
 
 ## Main Takeaways
